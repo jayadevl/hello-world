@@ -1,2 +1,2 @@
 # hello-world
-This is my first project on the Github for learning.
+This is Jay and this is my first project on the Github for learning,excited.
